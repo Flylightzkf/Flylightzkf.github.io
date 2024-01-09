@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>博客宠</title>
-    <link href="/2024/01/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2024/01/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <title>博宠</title>
+    <link href="/2024/01/09/%E5%8D%9A%E5%AE%A0/"/>
+    <url>/2024/01/09/%E5%8D%9A%E5%AE%A0/</url>
     
-    <content type="html"><![CDATA[<p><img src="/2024/01/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2024/01/09/%E5%8D%9A%E5%AE%A0/test.jpg"></p>]]></content>
     
     
     
@@ -27,31 +27,6 @@
     <categories>
       
       <category>开源项目</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>原创</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>测试文章</title>
-    <link href="/2021/06/10/%E5%8D%9A%E5%AE%A2%E5%AE%A0/"/>
-    <url>/2021/06/10/%E5%8D%9A%E5%AE%A2%E5%AE%A0/</url>
-    
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/2021/06/10/%E5%8D%9A%E5%AE%A2%E5%AE%A0/test.jpg"></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Java</category>
       
     </categories>
     
